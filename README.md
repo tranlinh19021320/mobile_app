@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-mobile app by flutter by Tran Duy Linh
+mobile app by flutter by Tran Duy Linh.
 
 ## Getting Started
 
